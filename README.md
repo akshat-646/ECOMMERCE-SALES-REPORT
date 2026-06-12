@@ -72,7 +72,7 @@ Contains line-item level data — 1,500 records (multiple items per order).
 19 states across India are represented, including Uttar Pradesh, Delhi, Maharashtra, Madhya Pradesh, Gujarat, Rajasthan, Tamil Nadu, West Bengal, Kerala, Karnataka, and more.
 
 ---
-## Reprot
+## Report
 <img width="1328" height="746" alt="image" src="https://github.com/user-attachments/assets/d59194f8-9ed0-44a9-91aa-697f1ea84919" />
 
 ## ⚠️ Notes
